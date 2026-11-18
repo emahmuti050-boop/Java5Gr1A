@@ -12,6 +12,6 @@ let totali=resultati1+resultati2;
 totali+=2.50;
 
 console.log("Fatura e librarise");
-console.log("Totali i librave",resultatiLibrit);
-console.log("Totali i fletores"resultatiFletores);
+console.log("Totali i librave",resultati1);
+console.log("Totali i fletores",resultati2);
 console.log("Totali i fatures",totali);
