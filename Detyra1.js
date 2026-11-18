@@ -15,3 +15,5 @@ console.log("Fatura e librarise");
 console.log("Totali i librave",resultati1);
 console.log("Totali i fletores",resultati2);
 console.log("Totali i fatures",totali);
+
+
